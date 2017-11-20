@@ -22,4 +22,4 @@ yarn-error.log*
 
 # keys
 
-appKey.js
+/src/gitKey.js
